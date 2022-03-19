@@ -10,7 +10,7 @@ ADD ./ /src
 
 RUN ls
 
-RUN rm -rf /src/node_modules && cp -a /tmp/node_modules / src
+RUN rm -rf /src/node_modules && cp -a /tmp/node_modules /src/
 
 WORKDIR /src
 
