@@ -1,0 +1,5 @@
+qbarchive.millzy.dev {
+    reverse_proxy node-app:81 {
+        header_down Strict-Transport-Security max-age=31536000
+    }
+}
