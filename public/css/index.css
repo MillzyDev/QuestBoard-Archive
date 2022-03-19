@@ -117,17 +117,30 @@ p {
 .buttons button {
     border: solid aliceblue 3px;
     border-radius: 15px;
-    height: 30px;
+    height: 35px;
     font-size: 20px;
     margin-left: 20px;
     margin-right: 20px;
     font-weight: 500;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .buttons button:hover {
     background-color: hotpink;
     border: solid hotpink 3px;
     color: aliceblue;
+}
+
+.buttons button:disabled {
+    border: solid #333;
+    background-color: #333;
+    color: #2c2c2c;
+}
+
+.buttons button:disabled:hover {
+    border: solid #333 3px;
+    background-color: #333;
 }
 
 .modAuthor {
