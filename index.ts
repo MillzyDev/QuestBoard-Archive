@@ -11,6 +11,6 @@ app.get("/", onRoot);
 app.get("/api/mods/:version", onApiMods);
 app.get("/api/versions", onApiVersions);
 
-app.listen("0.0.0.0:81", () => {
-    console.log("Archive is now listening on port 80!");
+app.listen(81, () => {
+    console.log("Archive is now listening on port 81!");
 });
