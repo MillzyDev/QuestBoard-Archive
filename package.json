@@ -9,7 +9,9 @@
     "prestart": "npm run build",
     "start": "ts-node index.ts",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev:server": "nodemon --watch './**/*.ts' --exec 'ts-node' server.ts"
+    "install-pm2": "npm i pm2 -g",
+    "setup-server": "pm2 install typescript",
+    "start-server": "pm2 index.ts"
   },
   "repository": {
     "type": "git",
