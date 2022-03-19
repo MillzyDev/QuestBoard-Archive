@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <%- include("../partials/head.ejs"); %>
+    </head>
+    <body>
+        <header>
+            <%- include("../partials/header.ejs") %> 
+        </header>
+
+        <div class="main">
+            <div class="top">
+                <select title="Version" name="version" class="versionSelect" id="versionSelect">
+                    <% 
+                    let options = "";
+                    versions.forEach(element => {
+                        options += `<option value="${element}">${element}</option>`
+                    }); 
+                    %>
+                    <%- options %> 
+                </select>
+                <label>Version:</label>
+            </div>
+            <div class="cards" id="cards">
+            </div>
+        </div>
+        <!-- Add versions to drop down -->
+        <script>
+            function addCards() {
+                let cardHtml = "";
+                const cards = document.getElementById("cards");
+                const selected = versionSelect.options[versionSelect.selectedIndex].value;
+                fetch(`/api/mods/${selected}`).then((r) => {
+                    r.text().then((value) => {
+                        const response = JSON.parse(value);
+                        if (response.error) return;
+
+                        const data = response.data;
+                        console.log(data);
+                        data.forEach(element => {
+                            cardHtml += `<div class="card"> <img class="coverImage" src="${element.cover == null ? "/public/img/default.png" : element.cover}"> <div class="nameAndVer"> <h3>${element.name}</h3> <p>v${element.version}</p> </div> <div class="modAuthor"> <img src="${element.author.icon}"> <p>${element.author.name}</p> </div> <p>${element.description}</p> <div class="buttons"> <button onclick='window.open("${element.downloadLink}", "_blank")' ${element.downloadLink == "N/A" ? "disabled" : ""}>Download</button> <button onclick='window.open("${element.source}", "_blank")' ${element.source == null ? "disabled" : ""}>Source</button> </div> </div>`;
+                            console.log(cardHtml)
+                            cards.innerHTML = cardHtml;
+                        });
+                    });
+                });
+            }
+            addCards();
+
+            versionSelect.onchange = addCards;
+        </script>
+
+        <footer>
+            <%- include("../partials/footer.ejs") %>
+        </footer>
+    </body>
+</html>
