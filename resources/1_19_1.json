@@ -1,0 +1,93 @@
+[
+  {
+    "name": "PinkCore",
+    "description": "PinkCore is a Core mod which aims to give you as much of a 'PC experience' as possible! This includes adding information to your game such as the Mappers names, Mod Requirements, Custom Colours, Custom Difficulty names, Burn Marks, and more!",
+    "id": "PinkCore",
+    "version": "1.6.5",
+    "downloadLink": "N/A",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Pink",
+      "icon": "https://www.questmodding.com/Pink.jpg"
+    }
+  },
+  {
+    "name": "Song Downloader",
+    "description": "Allows for the downloading of custom songs at runtime",
+    "id": "SongDownloader",
+    "version": "0.4.1",
+    "downloadLink": "N/A",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Darknight1050, EnderdracheLP, Metalit",
+      "icon": "https://www.questmodding.com/Darknight1050.png"
+    }
+  },
+  {
+    "name": "Quest UI",
+    "description": "A library used to add Mod Settings and other UI.",
+    "id": "QuestUI",
+    "version": "0.13.2",
+    "downloadLink": "N/A",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Darknight1050, RedBrumbler",
+      "icon": "https://www.questmodding.com/Darknight1050.png"
+    }
+  },
+  {
+    "name": "Playlist Manager",
+    "description": "Adds custom playlists to the game.",
+    "id": "PlaylistManager",
+    "version": "0.2.1",
+    "downloadLink": "N/A",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Darknight1050, Metalit",
+      "icon": "https://www.questmodding.com/Darknight1050.png"
+    }
+  },
+  {
+    "name": "Song Loader",
+    "description": "Loads Custom Songs at Runtime.",
+    "id": "SongLoader",
+    "version": "0.8.4",
+    "downloadLink": "N/A",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Darknight1050",
+      "icon": "https://www.questmodding.com/Darknight1050.png"
+    }
+  },
+  {
+    "name": "Codegen",
+    "description": "A core library used by almost every mod.",
+    "id": "Codegen",
+    "version": "0.20.0",
+    "downloadLink": "N/A",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Sc2ad",
+      "icon": "https://www.questmodding.com/Sc2ad.png"
+    }
+  },
+  {
+    "name": "Custom-Types",
+    "description": "Another core library used by almost every mod.",
+    "id": "Custom-Types",
+    "version": "0.15.7",
+    "downloadLink": "N/A",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Sc2ad",
+      "icon": "https://www.questmodding.com/Sc2ad.png"
+    }
+  }
+]

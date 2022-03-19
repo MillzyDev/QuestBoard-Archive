@@ -1,0 +1,444 @@
+[
+  {
+    "name": "PinkCore",
+    "description": "PinkCore is a Core mod which aims to give you as much of a 'PC experience' as possible! This includes adding information to your game such as the Mappers names, Mod Requirements, Custom Colours, Custom Difficulty names, Burn Marks, and more!",
+    "id": "PinkCore",
+    "version": "1.6.2",
+    "downloadLink": "N/A",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Pink",
+      "icon": "https://www.questmodding.com/Pink.jpg"
+    }
+  },
+  {
+    "name": "PinkCore",
+    "description": "PinkCore is a Core mod which aims to give you as much of a 'PC experience' as possible! This includes adding information to your game such as the Mappers names, Mod Requirements, Custom Colours, Custom Difficulty names, Burn Marks, and more!",
+    "id": "PinkCore",
+    "version": "1.6.1",
+    "downloadLink": "N/A",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Pink",
+      "icon": "https://www.questmodding.com/Pink.jpg"
+    }
+  },
+  {
+    "name": "Noodle Extensions",
+    "description": "This mod lets you see cool things that mappers have put in their maps.",
+    "id": "NoodleExtensions",
+    "version": "1.0.0",
+    "downloadLink": "https://github.com/StackDoubleFlow/NoodleExtensions/releases/download/v1.0.0/noodle_extensions.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "StackDoubleFlow, Fern, Sc2ad",
+      "icon": "https://www.questmodding.com/StackDoubleFlow.png"
+    }
+  },
+  {
+    "name": "Mapping Extensions",
+    "description": "This adds a host of new things you can do with your maps as a mapper, and allows you to play said maps as a player.",
+    "id": "MappingExtensions",
+    "version": "0.20.2",
+    "downloadLink": "https://github.com/rxzz0/MappingExtensions/releases/download/0.20.2/MappingExtensions.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Kyle 1413, MichaelZoller, StackDoubleFlow, rxzz0",
+      "icon": "https://www.questmodding.com/Kyle.png"
+    }
+  },
+  {
+    "name": "Chroma",
+    "description": "Chroma™ boasts the most power in color customization you've ever seen, allowing mappers to customize blocks, lights, sabers, and barriers into not just one but multiple colors!",
+    "id": "Chroma",
+    "version": "2.4.10q5",
+    "downloadLink": "https://github.com/bsq-ports/Chroma/releases/download/v2.5.7/chroma.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Fern, Aika",
+      "icon": "https://cdn.discordapp.com/avatars/199159026288689152/a_1dcc8620248890ca3dbccdc32c9e1bb0.png?size=256"
+    }
+  },
+  {
+    "name": "Chroma",
+    "description": "Chroma™ boasts the most power in color customization you've ever seen, allowing mappers to customize blocks, lights, sabers, and barriers into not just one but multiple colors!",
+    "id": "Chroma",
+    "version": "2.4.10q5",
+    "downloadLink": "https://github.com/bsq-ports/Chroma/releases/download/v2.4.15/chroma_v2.4.10q4.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Fern, Aika",
+      "icon": "https://cdn.discordapp.com/avatars/199159026288689152/a_1dcc8620248890ca3dbccdc32c9e1bb0.png?size=256"
+    }
+  },
+  {
+    "name": "Trick Saber",
+    "description": "This mod allows you to perform various tricks like spinning / throwing your sabers, hence the name 'Trick Saber'",
+    "id": "TrickSaber",
+    "version": "0.3.8",
+    "downloadLink": "https://github.com/Fernthedev/Quest-Trick-Saber/releases/download/v0.3.9/TrickSaber_v0.3.8.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Fern, MichaelZoller",
+      "icon": "https://cdn.discordapp.com/avatars/199159026288689152/a_1dcc8620248890ca3dbccdc32c9e1bb0.png?size=256"
+    }
+  },
+  {
+    "name": "DebrisTweaks",
+    "description": "Allows for full customization of various note debris parameters. Useful for those who wish to reduce vision blocks without disabling debris completely.",
+    "id": "DebrisTweaks",
+    "version": "1.1.2",
+    "downloadLink": "https://github.com/Raemien/DebrisTweaksQuest/releases/latest/download/DebrisTweaks.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Raemien",
+      "icon": "https://freeman.feen.us/tkhxdkb6pn.jpg"
+    }
+  },
+  {
+    "name": "AntiVertigo",
+    "description": "Spawns a cube/cylinder under the player to help those with vertigo or a fear of heights",
+    "id": "AntiVertigo",
+    "version": "1.0.3",
+    "downloadLink": "https://github.com/RedBrumbler/AntiVertigo/releases/download/v1.0.3/AntiVertigo.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "RedBrumbler",
+      "icon": "https://www.questmodding.com/Red.png"
+    }
+  },
+  {
+    "name": "Inverted Arrows",
+    "description": "This mod that reverses arrow directions for beat saber blocks. Disables score submission.",
+    "id": "InvertedArrows",
+    "version": "1.0.5",
+    "downloadLink": "https://github.com/RedBrumbler/InvertedArrows/releases/download/v1.0.5/InvertedArrows.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "RedBrumbler",
+      "icon": "https://www.questmodding.com/Red.png"
+    }
+  },
+  {
+    "name": "HitScoreVisualizer",
+    "description": "Allows you to customize the scores that pop up when you hit notes.",
+    "id": "HitScoreVisualizer",
+    "version": "2.3.0",
+    "downloadLink": "https://github.com/Christoffyw/HitScoreVisualizer/releases/download/2.3.0/HitScoreVisualizer_v2.3.0.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Christoffyw",
+      "icon": "https://cdn.discordapp.com/attachments/702592796263055511/878052829405790308/image0.png"
+    }
+  },
+  {
+    "name": "Burn Marks Qeeper",
+    "description": "Stops your burn marks from ever disappearing when you collide your sabers with the ground!",
+    "id": "BurnMarksQeeper",
+    "version": "0.1.0",
+    "downloadLink": "https://github.com/Core-Quest/Burn-Mark-Qeeper/releases/download/BurnMarkQeeper/burnmarkqeeper_v0.1.0.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Core, Pink",
+      "icon": "https://cdn.discordapp.com/attachments/882039815669973022/889677883138801664/Screenshot_20210809-110120_Chrome.png"
+    }
+  },
+  {
+    "name": "Qosmetics",
+    "description": "Gives support for using custom Saber, Wall and Block models; change models in game! <br> <i>Play Your Way!</i>",
+    "id": "Qosmetics",
+    "version": "1.3.3",
+    "downloadLink": "https://github.com/RedBrumbler/Qosmetics/releases/download/v1.3.3/Qosmetics.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "RedBrumbler",
+      "icon": "https://www.questmodding.com/Red.png"
+    }
+  },
+  {
+    "name": "Qosmetics",
+    "description": "Gives support for using custom Saber, Wall and Block models; change models in game! <br> <i>Play Your Way!</i>",
+    "id": "Qosmetics",
+    "version": "1.3.2",
+    "downloadLink": "https://github.com/RedBrumbler/Qosmetics/releases/download/v1.3.2/Qosmetics.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "RedBrumbler",
+      "icon": "https://www.questmodding.com/Red.png"
+    }
+  },
+  {
+    "name": "Custom Pillows Quest",
+    "description": "Spawns pillows in the menus with user defined images",
+    "id": "CustomPillowsQuest",
+    "version": "1.0.4",
+    "downloadLink": "https://github.com/RedBrumbler/CustomPillowsQuest/releases/download/v1.0.4/CustomPillows.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "RedBrumbler",
+      "icon": "https://www.questmodding.com/Red.png"
+    }
+  },
+  {
+    "name": "ImageCoverExpander",
+    "description": "Beat Saber mod that expands the artwork cover of a song. This is a port of the original mod by Spooky_ and PixelBoom to the Quest platorm.",
+    "id": "ImageCoverExpander",
+    "version": "0.1.4",
+    "downloadLink": "https://millzydev.itch.io/imgcoverexp-quest",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Millzy",
+      "icon": "https://www.questmodding.com/Milzy.png"
+    }
+  },
+  {
+    "name": "Custom Backgrounds",
+    "description": "Import any 360 image file into Beat Saber and use it as a skybox!",
+    "id": "CustomBackgrounds",
+    "version": "1.3.2",
+    "downloadLink": "https://github.com/Raemien/CustomBackgroundsQuest/releases/latest/download/CustomBackgrounds.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Raemien",
+      "icon": "https://freeman.feen.us/tkhxdkb6pn.jpg"
+    }
+  },
+  {
+    "name": "ClockMod",
+    "description": "The mod will display the time and battery percentage in the game, offers various options like a toggle for 12/24 Hour format, or the super cool rainbowify toggle.",
+    "id": "ClockMod",
+    "version": "1.5.1",
+    "downloadLink": "https://github.com/EnderdracheLP/ClockMod/releases/download/1.5.1/clockmod.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "EnderdracheLP, BoopetyDoopety",
+      "icon": "https://www.questmodding.com/EnderdracheLP.png"
+    }
+  },
+  {
+    "name": "Custom Fail Text",
+    "description": "Allows you to customize the text that appears when you fail a level.",
+    "id": "CustomFailText",
+    "version": "0.1.11",
+    "downloadLink": "https://github.com/Lauriethefish/CustomFailText/releases/download/0.1.11/custom-fail-text_v0.1.11.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "RedBar",
+    "description": "Allows you to change the color of your health bar according to your health.",
+    "id": "RedBar",
+    "version": "1.6.0",
+    "downloadLink": "https://github.com/ComputerElite/Redbar/releases/download/1.6.0/RedBar.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "ComputerElite, Miniwa",
+      "icon": "https://media.discordapp.net/attachments/638890439222755328/789404970059169852/IMG-20201202-WA0015.png"
+    }
+  },
+  {
+    "name": "QuestSounds",
+    "description": "QuestSounds allows the user to change sounds, just drop them into one of the folders in /ModData/com.beatgames.beatsaber/Mods/QuestSounds/ and select them in-game!",
+    "id": "QuestSounds",
+    "version": "1.0.3",
+    "downloadLink": "https://github.com/EnderdracheLP/QuestSounds/releases/download/1.0.3/QuestSounds.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "EnderdracheLP, Lillie",
+      "icon": "https://www.questmodding.com/EnderdracheLP.png"
+    }
+  },
+  {
+    "name": "PressJToPlay",
+    "description": "Changes play button to \"J\" (has config, so you can change)",
+    "id": "PressJToPlay",
+    "version": "0.1.1",
+    "downloadLink": "https://github.com/rxzz0/PressJToPlayQuest/releases/download/0.1.1/PressJToPlay.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "rxzz0",
+      "icon": "https://cdn.discordapp.com/avatars/651811841672216597/bf1ce0bcfd1271ea531ed6f8d53ff428.png"
+    }
+  },
+  {
+    "name": "SearchFixes",
+    "description": "A mod that combines search terms in the search bar to look for songs instead of looking at individual search terms. Also allows searching by mapper name.",
+    "id": "SearchFixes",
+    "version": "1.0.0",
+    "downloadLink": "https://github.com/rui2015/SearchFixesQuest/releases/download/v1.0.0/SearchFixes.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "rui2015",
+      "icon": "https://i.imgur.com/keBR6Un.png"
+    }
+  },
+  {
+    "name": "Song Info Plus",
+    "description": "Displays extra info about maps by clicking on their cover art",
+    "id": "SongInfoPlus",
+    "version": "1.0.2",
+    "downloadLink": "https://github.com/OptimusChen/QuestSongInfoPlus/releases/download/v1.0.2/SongInfoPlus_v1.0.2.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Optimus",
+      "icon": "https://cdn.discordapp.com/attachments/850598137026052126/889352972700639302/deepfried_warped_pfp.png"
+    }
+  },
+  {
+    "name": "Streamer Tools",
+    "description": "Streamer-Tools enables application to receive live information from the game, that can be used for things like the overlays on the official client.",
+    "id": "StreamerTools",
+    "version": "0.2.1",
+    "downloadLink": "https://github.com/EnderdracheLP/streamer-tools/releases/download/0.2.1/streamer-tools.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "EnderdracheLP, ComputerElite",
+      "icon": "https://www.questmodding.com/EnderdracheLP.png"
+    }
+  },
+  {
+    "name": "NoHealthAndSafety",
+    "description": "Removes the annoying health and safety pop-up upon starting the game.",
+    "id": "NoHealthAndSafety",
+    "version": "0.1.4",
+    "downloadLink": "https://github.com/Lauriethefish/NoHealthAndSafety/releases/download/0.1.4/no-health-and-safety_v0.1.4.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "CrashMod",
+    "description": "Crash your game if you are good and bad.",
+    "id": "CrashMod",
+    "version": "0.4.0",
+    "downloadLink": "https://github.com/ComputerElite/CrashMod/releases/download/0.4.0/CrashMod.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "ComputerElite",
+      "icon": "https://media.discordapp.net/attachments/638890439222755328/789404970059169852/IMG-20201202-WA0015.png"
+    }
+  },
+  {
+    "name": "Cheater's Anxiety",
+    "description": "Plays russian roulette with crashes every time you pause and resume during a map",
+    "id": "Cheater'sAnxiety",
+    "version": "0.1.1",
+    "downloadLink": "https://github.com/Jd-Gamer65/bsq-dont-pause/releases/download/v1.1/nopause_v0.1.1.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Jd The 65Th",
+      "icon": "https://cdn.discordapp.com/avatars/272909564653993984/353883ed5bc14de00e46e07655e170ac.png"
+    }
+  },
+  {
+    "name": "Third Person Mod",
+    "description": "Allows you to play in third person.",
+    "id": "ThirdPersonMod",
+    "version": "0.4.1",
+    "downloadLink": "https://github.com/ComputerElite/play3rdper/releases/download/0.4.1/Play3rdPer.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "ComputerElite",
+      "icon": "https://media.discordapp.net/attachments/638890439222755328/789404970059169852/IMG-20201202-WA0015.png"
+    }
+  },
+  {
+    "name": "Third Person Mod",
+    "description": "Allows you to play in third person.",
+    "id": "ThirdPersonMod",
+    "version": "0.4.0",
+    "downloadLink": "https://github.com/ComputerElite/play3rdper/releases/download/0.4.0/Play3rdPer.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "ComputerElite",
+      "icon": "https://media.discordapp.net/attachments/638890439222755328/789404970059169852/IMG-20201202-WA0015.png"
+    }
+  },
+  {
+    "name": "ModList",
+    "description": "Lets you view a list of loaded mods ingame.",
+    "id": "ModList",
+    "version": "0.1.4",
+    "downloadLink": "https://github.com/Lauriethefish/ModList/releases/download/0.1.4/mod-list_v0.1.4.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "Discord Presence",
+    "description": "Allows you to see discord rich presence from Beat Saber on discord.",
+    "id": "DiscordPresence",
+    "version": "0.3.5",
+    "downloadLink": "https://github.com/Lauriethefish/Quest-Discord-Presence/releases/download/0.3.5/discord-presence_v0.3.5.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "Faster Scroll",
+    "description": "Find your song faster with this customizable faster scrolling mod.",
+    "id": "FasterScroll",
+    "version": "1.3.0",
+    "downloadLink": "https://github.com/Christoffyw/FasterScrollQuest/releases/download/v1.3.0/fasterscroll_v1.3.0.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Christoffyw",
+      "icon": "https://cdn.discordapp.com/attachments/702592796263055511/878052829405790308/image0.png"
+    }
+  },
+  {
+    "name": "FishUtils",
+    "description": "FishUtils is a general quality-of-life (QOL) mod that combines 3 of my mods (SlowResume, AutoDebris and PauseConfirm) into one package. I made it as I never use these mods separately, and they work best together.",
+    "id": "FishUtils",
+    "version": "0.1.3",
+    "downloadLink": "https://github.com/Lauriethefish/FishUtils/releases/download/v0.1.3/fish-utils_v0.1.3.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  }
+]

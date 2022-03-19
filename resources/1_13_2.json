@@ -1,0 +1,561 @@
+[
+  {
+    "name": "PinkCore",
+    "description": "PinkCore is a Core mod which aims to give you as much of a 'PC experience' as possible! This includes adding information to your game such as the Mappers names, Mod Requirements, Custom Colours, Custom Difficulty names, Burn Marks, and more!",
+    "id": "PinkCore",
+    "version": "1.4.1",
+    "downloadLink": "https://github.com/BSMGPink/PinkCore/releases/download/1.4.1/PinkCoreV1.4.1.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Pink",
+      "icon": "https://www.questmodding.com/Pink.jpg"
+    }
+  },
+  {
+    "name": "PinkCore",
+    "description": "PinkCore is a Core mod which aims to give you as much of a 'PC experience' as possible! This includes adding information to your game such as the Mappers names, Mod Requirements, Custom Colours, Custom Difficulty names, Burn Marks, and more!",
+    "id": "PinkCore",
+    "version": "1.4.0",
+    "downloadLink": "https://github.com/BSMGPink/PinkCore/releases/download/1.4.0/PinkCoreV1.4.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Pink",
+      "icon": "https://www.questmodding.com/Pink.jpg"
+    }
+  },
+  {
+    "name": "Trick Saber",
+    "description": "This mod allows you to perform various tricks like spinning / throwing your sabers, hence the name 'Trick Saber'",
+    "id": "TrickSaber",
+    "version": "0.3.1",
+    "downloadLink": "https://github.com/Fernthedev/Quest-Trick-Saber/releases/download/0.3.1/TrickSaber_v0.3.1.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Fern, MichaelZoller",
+      "icon": "https://cdn.discordapp.com/avatars/199159026288689152/a_1dcc8620248890ca3dbccdc32c9e1bb0.png?size=256"
+    }
+  },
+  {
+    "name": "Trick Saber",
+    "description": "This mod allows you to perform various tricks like spinning / throwing your sabers, hence the name 'Trick Saber'",
+    "id": "TrickSaber",
+    "version": "0.3.0",
+    "downloadLink": "https://github.com/Fernthedev/Quest-Trick-Saber/releases/download/0.3.0/TrickSaber_v0.3.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Fern, MichaelZoller",
+      "icon": "https://cdn.discordapp.com/avatars/199159026288689152/a_1dcc8620248890ca3dbccdc32c9e1bb0.png?size=256"
+    }
+  },
+  {
+    "name": "Beat Together",
+    "description": "A multiplayer private server for the modding community. Supports crossplay between PC and Quest.",
+    "id": "BeatTogether",
+    "version": "1.1.0",
+    "downloadLink": "https://github.com/pythonology/BeatTogether.Quest/releases/download/v1.1.0/BeatTogether_v1.1.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Kevman95, Python",
+      "icon": "https://www.questmodding.com/Python.png"
+    }
+  },
+  {
+    "name": "AutoDebris",
+    "description": "Automatically enables or disables debris based on the Notes Per Second, or the playlist that a song is in.",
+    "id": "AutoDebris",
+    "version": "0.1.4",
+    "downloadLink": "https://github.com/Lauriethefish/AutoDebris/releases/download/0.1.4/auto-debris_v0.1.4.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "SlowResume",
+    "description": "Allows you to change how long the countdown takes to resume when paused. Disables score submission if the amount of time is increased, since this makes pausing an easier method to get back your stamina.",
+    "id": "SlowResume",
+    "version": "0.1.1",
+    "downloadLink": "https://github.com/Lauriethefish/SlowResume/releases/download/0.1.1/slow-resume_v0.1.1.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "PauseConfirm",
+    "description": "Makes you confirm before going back to the menu, restarting or pressing continue when in the pause menu.",
+    "id": "PauseConfirm",
+    "version": "0.2.1",
+    "downloadLink": "https://github.com/Lauriethefish/PauseConfirm/releases/download/0.2.1/pause-confirm_v0.2.1.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "DebrisTweaks",
+    "description": "Allows for full customization of various note debris parameters. Useful for those who wish to reduce vision blocks without disabling debris completely.",
+    "id": "DebrisTweaks",
+    "version": "1.0.0",
+    "downloadLink": "https://github.com/Raemien/DebrisTweaksQuest/releases/latest/download/DebrisTweaks.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Raemien",
+      "icon": "https://freeman.feen.us/tkhxdkb6pn.jpg"
+    }
+  },
+  {
+    "name": "Replay",
+    "description": "This mod lets you record better videos and lets you view a replay of any of your recorded plays.<br>Donation Link (donators get access to a private server): https://www.patreon.com/henwill8",
+    "id": "Replay",
+    "version": "0.5.0",
+    "downloadLink": "https://github.com/henwill8/ReplayDownload/releases/download/0.5.0/replay_v0.5.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Henwill8",
+      "icon": "https://media.discordapp.net/attachments/702592796263055511/816884261080268850/unnamed.png"
+    }
+  },
+  {
+    "name": "Replay",
+    "description": "This mod lets you record better videos and lets you view a replay of any of your recorded plays.<br>Donation Link (donators get access to a private server): https://www.patreon.com/henwill8",
+    "id": "Replay",
+    "version": "0.4.0",
+    "downloadLink": "https://github.com/henwill8/ReplayDownload/releases/download/0.4.0/replay_v0.4.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Henwill8",
+      "icon": "https://media.discordapp.net/attachments/702592796263055511/816884261080268850/unnamed.png"
+    }
+  },
+  {
+    "name": "Intro Skip",
+    "description": "Lets you skip sections of songs that have no notes in them.",
+    "id": "IntroSkip",
+    "version": "0.2.0",
+    "downloadLink": "https://github.com/henwill8/IntroSkip/releases/download/0.2.0/introskip_v0.2.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Henwill8",
+      "icon": "https://media.discordapp.net/attachments/702592796263055511/816884261080268850/unnamed.png"
+    }
+  },
+  {
+    "name": "Song Difficulty Chart",
+    "description": "This shows a graph of the difficulty throughout a song.",
+    "id": "SongDifficultyChart",
+    "version": "0.1.0",
+    "downloadLink": "https://github.com/henwill8/SongDifficultyChart/releases/download/v0.1.0/songDifficultyChart_v0.1.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Henwill8",
+      "icon": "https://media.discordapp.net/attachments/702592796263055511/816884261080268850/unnamed.png"
+    }
+  },
+  {
+    "name": "Slice Visualizer",
+    "description": "After each note cut, a visual of where on the note you hit it will show. This is good for practicing accuracy.",
+    "id": "SliceVisualizer",
+    "version": "0.1.0",
+    "downloadLink": "https://github.com/henwill8/SliceVisualizer/releases/download/0.1.0/slicevisualizer_v0.1.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Henwill8",
+      "icon": "https://media.discordapp.net/attachments/702592796263055511/816884261080268850/unnamed.png"
+    }
+  },
+  {
+    "name": "InstaFailAccuracy",
+    "description": "If you go below a certain accuracy, you fail!",
+    "id": "InstaFailAccuracy",
+    "version": "1.0.0",
+    "downloadLink": "https://github.com/IsGabriellaCurious/instafailaccuracy/releases/download/v1.0.0/instafailaccuracy_v1.0.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "gabriella ✨",
+      "icon": "https://gabriella.moe/files/pfp.png"
+    }
+  },
+  {
+    "name": "Added Modifiers",
+    "description": "Adds fail on saber clash to the mod settings",
+    "id": "AddedModifiers",
+    "version": "2.0.7",
+    "downloadLink": "https://questmodding.com/mods/AddedModifiers_v2.0.7.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Inferno",
+      "icon": "https://cdn.discordapp.com/avatars/517699048489091083/a_4ce9738874948284bc9a9f3a65bd6c4f.gif?size=1024"
+    }
+  },
+  {
+    "name": "Added Modifiers",
+    "description": "Adds fail on saber clash to the mod settings",
+    "id": "AddedModifiers",
+    "version": "1.0.11",
+    "downloadLink": "https://github.com/Inferno-idk-what-to-do/AddedModifiers/releases/download/1.0.11/AddedModifiers_v1.0.11.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Inferno",
+      "icon": "https://cdn.discordapp.com/avatars/517699048489091083/a_4ce9738874948284bc9a9f3a65bd6c4f.gif?size=1024"
+    }
+  },
+  {
+    "name": "PracticePlus",
+    "description": "Allows you to set the NJS and note offset and expands the speed slider.",
+    "id": "PracticePlus",
+    "version": "0.4.0",
+    "downloadLink": "https://github.com/tekkvega/PracticePlus/releases/download/0.4.0/PracticePlus_v0.4.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Mott's",
+      "icon": "https://media.discordapp.net/attachments/667156958410702848/816838807005429800/applesauce.png?width=349&height=349"
+    }
+  },
+  {
+    "name": "Particles",
+    "description": "Adjust in-game particle effects",
+    "id": "Particles",
+    "version": "1.0.2",
+    "downloadLink": "https://github.com/SuperMarcus/QuestParticleTuner/releases/download/1.1.2/ParticleTuner_1.1.2.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Marcus",
+      "icon": "https://github.com/SuperMarcus.png"
+    }
+  },
+  {
+    "name": "Qosmetics",
+    "description": "Gives support for using custom Saber, Wall and Block models; change models in game! <br> <i>Play Your Way!</i>",
+    "id": "Qosmetics",
+    "version": "1.2.0",
+    "downloadLink": "https://github.com/RedBrumbler/Qosmetics/releases/latest/download/Qosmetics.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "RedBrumbler",
+      "icon": "https://www.questmodding.com/Red.png"
+    }
+  },
+  {
+    "name": "Custom Pillows Quest",
+    "description": "Spawns pillows in the menus with user defined images",
+    "id": "CustomPillowsQuest",
+    "version": "1.0.2",
+    "downloadLink": "https://github.com/RedBrumbler/CustomPillowsQuest/releases/latest/download/CustomPillowsQuest.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "RedBrumbler",
+      "icon": "https://www.questmodding.com/Red.png"
+    }
+  },
+  {
+    "name": "Custom Pillows Quest",
+    "description": "Spawns pillows in the menus with user defined images",
+    "id": "CustomPillowsQuest",
+    "version": "1.0.0",
+    "downloadLink": "https://github.com/RedBrumbler/CustomPillowsQuest/releases/latest/download/CustomPillowsQuest.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "RedBrumbler",
+      "icon": "https://www.questmodding.com/Red.png"
+    }
+  },
+  {
+    "name": "Custom Backgrounds",
+    "description": "Import any 360 image file into Beat Saber and use it as a skybox!",
+    "id": "CustomBackgrounds",
+    "version": "1.2.5",
+    "downloadLink": "https://github.com/Raemien/CustomBackgroundsQuest/releases/latest/download/CustomBackgrounds.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Raemien",
+      "icon": "https://freeman.feen.us/tkhxdkb6pn.jpg"
+    }
+  },
+  {
+    "name": "Custom Backgrounds",
+    "description": "Import any 360 image file into Beat Saber and use it as a skybox!",
+    "id": "CustomBackgrounds",
+    "version": "1.0.0",
+    "downloadLink": "https://github.com/Raemien/CustomBackgroundsQuest/releases/latest/download/CustomBackgrounds.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Raemien",
+      "icon": "https://freeman.feen.us/tkhxdkb6pn.jpg"
+    }
+  },
+  {
+    "name": "Qounters-",
+    "description": "Spice up your Beat Saber HUD with a variety of configurable Counters Qounters, which can display a wide variety of stats in an even wider variety of ways.",
+    "id": "Qounters-",
+    "version": "1.0.1",
+    "downloadLink": "https://github.com/danrouse/bsq-qounters-minus/releases/download/1.0.1/qounters-minus_v1.0.1.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "danrouse",
+      "icon": "https://www.questmodding.com/dan.jpg"
+    }
+  },
+  {
+    "name": "ClockMod",
+    "description": "The mod will display the time and battery percentage in the game, offers various options like a toggle for 12/24 Hour format, or the super cool rainbowify toggle.",
+    "id": "ClockMod",
+    "version": "1.3.1",
+    "downloadLink": "https://github.com/EnderdracheLP/ClockMod/releases/download/1.3.1/Clockmod.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "EnderdracheLP, BoopetyDoopety",
+      "icon": "https://www.questmodding.com/EnderdracheLP.png"
+    }
+  },
+  {
+    "name": "ClockMod",
+    "description": "The mod will display the time and battery percentage in the game, offers various options like a toggle for 12/24 Hour format, or the super cool rainbowify toggle.",
+    "id": "ClockMod",
+    "version": "0.1.3.1",
+    "downloadLink": "https://github.com/EnderdracheLP/ClockMod/releases/download/0.1.3.1/Clockmod.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "EnderdracheLP, BoopetyDoopety",
+      "icon": "https://www.questmodding.com/EnderdracheLP.png"
+    }
+  },
+  {
+    "name": "ClockMod",
+    "description": "The mod will display the time and battery percentage in the game, offers various options like a toggle for 12/24 Hour format, or the super cool rainbowify toggle.",
+    "id": "ClockMod",
+    "version": "0.1.2",
+    "downloadLink": "https://github.com/EnderdracheLP/ClockMod/releases/latest/download/Clockmod.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "EnderdracheLP, BoopetyDoopety",
+      "icon": "https://www.questmodding.com/EnderdracheLP.png"
+    }
+  },
+  {
+    "name": "Custom Fail Text",
+    "description": "Allows you to customize the text that appears when you fail a level.",
+    "id": "CustomFailText",
+    "version": "0.1.8",
+    "downloadLink": "https://github.com/Lauriethefish/CustomFailText/releases/download/0.1.8/custom-fail-text_v0.1.8.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "RedBar",
+    "description": "Allows you to change the color of your health bar according to your health.",
+    "id": "RedBar",
+    "version": "1.3.1",
+    "downloadLink": "https://github.com/ComputerElite/RedBar/releases/download/1.3.1/RedBar_v1.3.1.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "ComputerElite, Miniwa",
+      "icon": "https://media.discordapp.net/attachments/638890439222755328/789404970059169852/IMG-20201202-WA0015.png"
+    }
+  },
+  {
+    "name": "RedBar",
+    "description": "Allows you to change the color of your health bar according to your health.",
+    "id": "RedBar",
+    "version": "1.3.0",
+    "downloadLink": "https://github.com/ComputerElite/RedBar/releases/download/1.3.0/RedBar_v1.3.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "ComputerElite, Miniwa",
+      "icon": "https://media.discordapp.net/attachments/638890439222755328/789404970059169852/IMG-20201202-WA0015.png"
+    }
+  },
+  {
+    "name": "Fast Fail",
+    "description": "Speeds up the fail animation!",
+    "id": "FastFail",
+    "version": "1.0.0",
+    "downloadLink": "https://github.com/IsGabriellaCurious/FastFail/releases/download/v1.0.0/fastfail_v1.0.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "gabriella ✨",
+      "icon": "https://gabriella.moe/files/pfp.png"
+    }
+  },
+  {
+    "name": "No Miss Text",
+    "description": "A Port of CyanSnows NoMissText mod. Removes the miss and bad cut text along with the combo break animation!",
+    "id": "NoMissText",
+    "version": "2.1.0",
+    "downloadLink": "https://github.com/IsGabriellaCurious/NoMissText/releases/download/v2.1.0/nomisstext_v2.1.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "gabriella ✨, Pink, CyanSnow",
+      "icon": "https://gabriella.moe/files/pfp.png"
+    }
+  },
+  {
+    "name": "QuestSounds",
+    "description": "QuestSounds allows the user to change sounds, just drop them into one of the folders in /ModData/com.beatgames.beatsaber/Mods/QuestSounds/ and select them in-game!",
+    "id": "QuestSounds",
+    "version": "0.2.0",
+    "downloadLink": "https://github.com/EnderdracheLP/QuestSounds/releases/latest/download/QuestSounds.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "EnderdracheLP, Lillie",
+      "icon": "https://www.questmodding.com/EnderdracheLP.png"
+    }
+  },
+  {
+    "name": "FpsQounter",
+    "description": "Enables the (built-in/debug) FPS counter in Beat Saber.",
+    "id": "FpsQounter",
+    "version": "1.0.0",
+    "downloadLink": "https://github.com/nyamimi/FpsQounter/releases/download/v1.0.0/fps-qounter_v1.0.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "nyamimi~",
+      "icon": "https://cdn.discordapp.com/avatars/733413295343665276/0f26a090a48d4362136b099d801a7f3c.png?size=1024"
+    }
+  },
+  {
+    "name": "Tweakaroo",
+    "description": "Tweakaroo is a 'compilation' of minor changes/modifications to the game.",
+    "id": "Tweakaroo",
+    "version": "1.0.0",
+    "downloadLink": "https://github.com/MillzyG/QuestTweakaroo/releases/download/v1.0.0/Tweakaroo_v1.0.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "MillzyG",
+      "icon": "https://cdn.discordapp.com/avatars/485541455805546498/e5008146aeb4d81f2e565e53f06f2702"
+    }
+  },
+  {
+    "name": "NoHealthAndSafety",
+    "description": "Removes the annoying health and safety pop-up upon starting the game.",
+    "id": "NoHealthAndSafety",
+    "version": "0.1.1",
+    "downloadLink": "https://github.com/Lauriethefish/NoHealthAndSafety/releases/download/0.1.1/no-health-and-safety_v0.1.1.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "Third Person Mod",
+    "description": "Allows you to play in third person.",
+    "id": "ThirdPersonMod",
+    "version": "0.1.3",
+    "downloadLink": "https://github.com/ComputerElite/play3rdper/releases/download/0.1.3/Play3rdPer_v0.1.3.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "ComputerElite",
+      "icon": "https://media.discordapp.net/attachments/638890439222755328/789404970059169852/IMG-20201202-WA0015.png"
+    }
+  },
+  {
+    "name": "Third Person Mod",
+    "description": "Allows you to play in third person.",
+    "id": "ThirdPersonMod",
+    "version": "0.1.2",
+    "downloadLink": "https://github.com/ComputerElite/play3rdper/releases/download/0.1.2/Play3rdPer_v0.1.2.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "ComputerElite",
+      "icon": "https://media.discordapp.net/attachments/638890439222755328/789404970059169852/IMG-20201202-WA0015.png"
+    }
+  },
+  {
+    "name": "Third Person Mod",
+    "description": "Allows you to play in third person.",
+    "id": "ThirdPersonMod",
+    "version": "0.1.1",
+    "downloadLink": "https://github.com/ComputerElite/play3rdper/releases/download/0.1.1/Play3rdPer_v0.1.1.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "ComputerElite",
+      "icon": "https://media.discordapp.net/attachments/638890439222755328/789404970059169852/IMG-20201202-WA0015.png"
+    }
+  },
+  {
+    "name": "Third Person Mod",
+    "description": "Allows you to play in third person.",
+    "id": "ThirdPersonMod",
+    "version": "0.1.0",
+    "downloadLink": "https://github.com/ComputerElite/play3rdper/releases/download/0.1.0/Play3rdPer_v0.1.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "ComputerElite",
+      "icon": "https://media.discordapp.net/attachments/638890439222755328/789404970059169852/IMG-20201202-WA0015.png"
+    }
+  },
+  {
+    "name": "ModList",
+    "description": "Lets you view a list of loaded mods ingame.",
+    "id": "ModList",
+    "version": "0.1.1",
+    "downloadLink": "https://github.com/Lauriethefish/ModList/releases/download/0.1.1/mod-list_v0.1.1.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "Discord Presence",
+    "description": "Allows you to see discord rich presence from Beat Saber on discord.",
+    "id": "DiscordPresence",
+    "version": "0.3.0",
+    "downloadLink": "https://github.com/Lauriethefish/Quest-Discord-Presence",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  }
+]

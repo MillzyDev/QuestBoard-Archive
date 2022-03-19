@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Mapping Extensions",
+    "description": "This adds a host of new things you can do with your maps as a mapper, and allows you to play said maps as a player.",
+    "id": "MappingExtensions",
+    "version": "0.17.3",
+    "downloadLink": "https://cdn.discordapp.com/attachments/765630505000894484/769072434409373736/MappingExtensions_v0.17.3.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Kyle 1413, MichaelZoller, StackDoubleFlow, rxzz0",
+      "icon": "https://www.questmodding.com/Kyle.png"
+    }
+  },
+  {
+    "name": "AutoDebris",
+    "description": "Automatically enables or disables debris based on the Notes Per Second, or the playlist that a song is in.",
+    "id": "AutoDebris",
+    "version": "0.1.1",
+    "downloadLink": "https://cdn.discordapp.com/attachments/765630505000894484/771810848959496192/auto-debris_v0.1.1.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "AutoDebris",
+    "description": "Automatically enables or disables debris based on the Notes Per Second, or the playlist that a song is in.",
+    "id": "AutoDebris",
+    "version": "0.1.0",
+    "downloadLink": "https://cdn.discordapp.com/attachments/765630505000894484/769978347605196860/auto-debris_v0.1.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "Qosmetics",
+    "description": "Gives support for using custom Saber, Wall and Block models; change models in game! <br> <i>Play Your Way!</i>",
+    "id": "Qosmetics",
+    "version": "1.1.4",
+    "downloadLink": "https://github.com/RedBrumbler/Qosmetics/releases/latest/download/Qosmetics.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "RedBrumbler",
+      "icon": "https://www.questmodding.com/Red.png"
+    }
+  },
+  {
+    "name": "Custom Fail Text",
+    "description": "Allows you to customize the text that appears when you fail a level.",
+    "id": "CustomFailText",
+    "version": "0.1.6",
+    "downloadLink": "https://cdn.discordapp.com/attachments/765630505000894484/771818619515699230/custom-fail-text_v0.1.6.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "Quest Trail Overlap",
+    "description": "This mod makes the trails not cut into eachother and instead overlap",
+    "id": "QuestTrailOverlap",
+    "version": "1.0.1",
+    "downloadLink": "https://github.com/RedBrumbler/QuestTrailOverlap/releases/latest/download/QuestTrailOverlap.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "RedBrumbler",
+      "icon": "https://www.questmodding.com/Red.png"
+    }
+  }
+]

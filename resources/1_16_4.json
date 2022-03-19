@@ -1,0 +1,457 @@
+[
+  {
+    "name": "PinkCore",
+    "description": "PinkCore is a Core mod which aims to give you as much of a 'PC experience' as possible! This includes adding information to your game such as the Mappers names, Mod Requirements, Custom Colours, Custom Difficulty names, Burn Marks, and more!",
+    "id": "PinkCore",
+    "version": "1.5.3",
+    "downloadLink": "N/A",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Pink",
+      "icon": "https://www.questmodding.com/Pink.jpg"
+    }
+  },
+  {
+    "name": "Chroma",
+    "description": "Chroma™ boasts the most power in color customization you've ever seen, allowing mappers to customize blocks, lights, sabers, and barriers into not just one but multiple colors!",
+    "id": "Chroma",
+    "version": "2.4.10q2",
+    "downloadLink": "https://questmodding.com/mods/chroma_v2.4.10q2.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Fern, Aika",
+      "icon": "https://cdn.discordapp.com/avatars/199159026288689152/a_1dcc8620248890ca3dbccdc32c9e1bb0.png?size=256"
+    }
+  },
+  {
+    "name": "Trick Saber",
+    "description": "This mod allows you to perform various tricks like spinning / throwing your sabers, hence the name 'Trick Saber'",
+    "id": "TrickSaber",
+    "version": "0.3.7",
+    "downloadLink": "https://questmodding.com/mods/TrickSaber_v0.3.7.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Fern, MichaelZoller",
+      "icon": "https://cdn.discordapp.com/avatars/199159026288689152/a_1dcc8620248890ca3dbccdc32c9e1bb0.png?size=256"
+    }
+  },
+  {
+    "name": "Trick Saber",
+    "description": "This mod allows you to perform various tricks like spinning / throwing your sabers, hence the name 'Trick Saber'",
+    "id": "TrickSaber",
+    "version": "0.3.6",
+    "downloadLink": "https://questmodding.com/mods/TrickSaber_v0.3.6.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Fern, MichaelZoller",
+      "icon": "https://cdn.discordapp.com/avatars/199159026288689152/a_1dcc8620248890ca3dbccdc32c9e1bb0.png?size=256"
+    }
+  },
+  {
+    "name": "I Forgor 💀",
+    "description": "A Beat Saber mod that shows the direction of the last blocks and the angle of your sabers before you paused",
+    "id": "IForgor💀",
+    "version": "0.1.0",
+    "downloadLink": "https://questmodding.com/mods/IForgor_v0.1.0.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Future",
+      "icon": "https://www.questmodding.com/Future.png"
+    }
+  },
+  {
+    "name": "Combo Splitter",
+    "description": "Modifies the Combo panel to count a combo for each hand individually, instead of one combo for both.",
+    "id": "ComboSplitter",
+    "version": "0.1.2",
+    "downloadLink": "https://questmodding.com/mods/ComboSplitter_v0.1.2.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Future",
+      "icon": "https://www.questmodding.com/Future.png"
+    }
+  },
+  {
+    "name": "DebrisTweaks",
+    "description": "Allows for full customization of various note debris parameters. Useful for those who wish to reduce vision blocks without disabling debris completely.",
+    "id": "DebrisTweaks",
+    "version": "1.1.0",
+    "downloadLink": "https://www.questmodding.com/mods/DebrisTweaks_v1.1.0.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Raemien",
+      "icon": "https://freeman.feen.us/tkhxdkb6pn.jpg"
+    }
+  },
+  {
+    "name": "AntiVertigo",
+    "description": "Spawns a cube/cylinder under the player to help those with vertigo or a fear of heights",
+    "id": "AntiVertigo",
+    "version": "1.0.2",
+    "downloadLink": "https://questmodding.com/mods/AntiVertigo_v1.0.2.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "RedBrumbler",
+      "icon": "https://www.questmodding.com/Red.png"
+    }
+  },
+  {
+    "name": "Inverted Arrows",
+    "description": "This mod that reverses arrow directions for beat saber blocks. Disables score submission.",
+    "id": "InvertedArrows",
+    "version": "1.0.4",
+    "downloadLink": "https://questmodding.com/mods/InvertedArrows_v1.0.4.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "RedBrumbler",
+      "icon": "https://www.questmodding.com/Red.png"
+    }
+  },
+  {
+    "name": "Inverted Arrows",
+    "description": "This mod that reverses arrow directions for beat saber blocks. Disables score submission.",
+    "id": "InvertedArrows",
+    "version": "1.0.3",
+    "downloadLink": "https://github.com/RedBrumbler/InvertedArrows/releases/download/v1.0.3/InvertedArrows.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "RedBrumbler",
+      "icon": "https://www.questmodding.com/Red.png"
+    }
+  },
+  {
+    "name": "Replay",
+    "description": "This mod lets you record better videos and lets you view a replay of any of your recorded plays.<br>Donation Link (donators get access to a private server): https://www.patreon.com/henwill8",
+    "id": "Replay",
+    "version": "0.6.0",
+    "downloadLink": "https://questmodding.com/mods/replay_v0.6.0.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Henwill8",
+      "icon": "https://media.discordapp.net/attachments/702592796263055511/816884261080268850/unnamed.png"
+    }
+  },
+  {
+    "name": "Intro Skip",
+    "description": "Lets you skip sections of songs that have no notes in them.",
+    "id": "IntroSkip",
+    "version": "0.3.0",
+    "downloadLink": "https://questmodding.com/mods/introSkip_v0.3.0.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Henwill8",
+      "icon": "https://media.discordapp.net/attachments/702592796263055511/816884261080268850/unnamed.png"
+    }
+  },
+  {
+    "name": "Song Difficulty Chart",
+    "description": "This shows a graph of the difficulty throughout a song.",
+    "id": "SongDifficultyChart",
+    "version": "0.2.0",
+    "downloadLink": "https://questmodding.com/mods/songDifficultyChart_v0.2.0.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Henwill8",
+      "icon": "https://media.discordapp.net/attachments/702592796263055511/816884261080268850/unnamed.png"
+    }
+  },
+  {
+    "name": "Slice Visualizer",
+    "description": "After each note cut, a visual of where on the note you hit it will show. This is good for practicing accuracy.",
+    "id": "SliceVisualizer",
+    "version": "0.2.0",
+    "downloadLink": "https://questmodding.com/mods/sliceVisualizer_v0.2.0.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Henwill8",
+      "icon": "https://media.discordapp.net/attachments/702592796263055511/816884261080268850/unnamed.png"
+    }
+  },
+  {
+    "name": "Qosmetics",
+    "description": "Gives support for using custom Saber, Wall and Block models; change models in game! <br> <i>Play Your Way!</i>",
+    "id": "Qosmetics",
+    "version": "1.3.0",
+    "downloadLink": "https://questmodding.com/mods/Qosmetics_v1.3.0.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "RedBrumbler",
+      "icon": "https://www.questmodding.com/Red.png"
+    }
+  },
+  {
+    "name": "Custom Pillows Quest",
+    "description": "Spawns pillows in the menus with user defined images",
+    "id": "CustomPillowsQuest",
+    "version": "1.0.3",
+    "downloadLink": "https://questmodding.com/mods/CustomPillows_v1.0.3.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "RedBrumbler",
+      "icon": "https://www.questmodding.com/Red.png"
+    }
+  },
+  {
+    "name": "AikaTweaks",
+    "description": "A bunch of (mostly graphical) tweaks for Beat Saber, includes things such as bloom, smoke, refresh rate, resolution, etc!",
+    "id": "AikaTweaks",
+    "version": "2.0.0",
+    "downloadLink": "https://questmodding.com/mods/AikaTweaks_v2.0.0.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Aika",
+      "icon": "https://cdn.discordapp.com/avatars/864637983713919007/9270944129d5b5a070b7d11fb25c73c8.png?size=256"
+    }
+  },
+  {
+    "name": "ImageCoverExpander",
+    "description": "Beat Saber mod that expands the artwork cover of a song. This is a port of the original mod by Spooky_ and PixelBoom to the Quest platorm.",
+    "id": "ImageCoverExpander",
+    "version": "0.1.1",
+    "downloadLink": "https://questmodding.com/mods/ImageCoverExpander_v0.1.1.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Millzy",
+      "icon": "https://www.questmodding.com/Milzy.png"
+    }
+  },
+  {
+    "name": "Custom Backgrounds",
+    "description": "Import any 360 image file into Beat Saber and use it as a skybox!",
+    "id": "CustomBackgrounds",
+    "version": "1.3.0",
+    "downloadLink": "https://questmodding.com/mods/CustomBackgrounds_v1.3.0.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Raemien",
+      "icon": "https://freeman.feen.us/tkhxdkb6pn.jpg"
+    }
+  },
+  {
+    "name": "Qounters-",
+    "description": "Spice up your Beat Saber HUD with a variety of configurable Counters Qounters, which can display a wide variety of stats in an even wider variety of ways.",
+    "id": "Qounters-",
+    "version": "1.1.0",
+    "downloadLink": "https://www.questmodding.com/mods/qounters-minus_v1.1.0.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "danrouse",
+      "icon": "https://www.questmodding.com/dan.jpg"
+    }
+  },
+  {
+    "name": "ClockMod",
+    "description": "The mod will display the time and battery percentage in the game, offers various options like a toggle for 12/24 Hour format, or the super cool rainbowify toggle.",
+    "id": "ClockMod",
+    "version": "1.4.0",
+    "downloadLink": "https://questmodding.com/mods/clockmod_v1.4.0.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "EnderdracheLP, BoopetyDoopety",
+      "icon": "https://www.questmodding.com/EnderdracheLP.png"
+    }
+  },
+  {
+    "name": "Custom Fail Text",
+    "description": "Allows you to customize the text that appears when you fail a level.",
+    "id": "CustomFailText",
+    "version": "0.1.9",
+    "downloadLink": "https://www.questmodding.com/mods/custom-fail-text_v0.1.9.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "RedBar",
+    "description": "Allows you to change the color of your health bar according to your health.",
+    "id": "RedBar",
+    "version": "1.4.2",
+    "downloadLink": "https://questmodding.com/mods/RedBar_v1.4.2.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "ComputerElite, Miniwa",
+      "icon": "https://media.discordapp.net/attachments/638890439222755328/789404970059169852/IMG-20201202-WA0015.png"
+    }
+  },
+  {
+    "name": "RedBar",
+    "description": "Allows you to change the color of your health bar according to your health.",
+    "id": "RedBar",
+    "version": "1.4.1",
+    "downloadLink": "https://github.com/ComputerElite/RedBar/releases/download/1.4.1/RedBar.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "ComputerElite, Miniwa",
+      "icon": "https://media.discordapp.net/attachments/638890439222755328/789404970059169852/IMG-20201202-WA0015.png"
+    }
+  },
+  {
+    "name": "QuestSounds",
+    "description": "QuestSounds allows the user to change sounds, just drop them into one of the folders in /ModData/com.beatgames.beatsaber/Mods/QuestSounds/ and select them in-game!",
+    "id": "QuestSounds",
+    "version": "1.0.0",
+    "downloadLink": "https://questmodding.com/mods/QuestSounds_v1.0.0.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "EnderdracheLP, Lillie",
+      "icon": "https://www.questmodding.com/EnderdracheLP.png"
+    }
+  },
+  {
+    "name": "Slogans",
+    "description": "Beat Saber mod that adds some cool customisable text in the environment.",
+    "id": "Slogans",
+    "version": "0.1.2",
+    "downloadLink": "https://questmodding.com/mods/Slogans_v0.1.2.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Millzy",
+      "icon": "https://www.questmodding.com/Milzy.png"
+    }
+  },
+  {
+    "name": "Streamer Tools",
+    "description": "Streamer-Tools enables application to receive live information from the game, that can be used for things like the overlays on the official client.",
+    "id": "StreamerTools",
+    "version": "0.1.1",
+    "downloadLink": "https://questmodding.com/mods/streamer-tools_v0.1.1.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "EnderdracheLP, ComputerElite",
+      "icon": "https://www.questmodding.com/EnderdracheLP.png"
+    }
+  },
+  {
+    "name": "Streamer Tools",
+    "description": "Streamer-Tools enables application to receive live information from the game, that can be used for things like the overlays on the official client.",
+    "id": "StreamerTools",
+    "version": "0.1.0",
+    "downloadLink": "N/A",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "EnderdracheLP, ComputerElite",
+      "icon": "https://www.questmodding.com/EnderdracheLP.png"
+    }
+  },
+  {
+    "name": "NoHealthAndSafety",
+    "description": "Removes the annoying health and safety pop-up upon starting the game.",
+    "id": "NoHealthAndSafety",
+    "version": "0.1.2",
+    "downloadLink": "https://www.questmodding.com/mods/no-health-and-safety_v0.1.2.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "Third Person Mod",
+    "description": "Allows you to play in third person.",
+    "id": "ThirdPersonMod",
+    "version": "0.2.1",
+    "downloadLink": "https://questmodding.com/mods/Play3rdPer_v0.2.1.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "ComputerElite",
+      "icon": "https://media.discordapp.net/attachments/638890439222755328/789404970059169852/IMG-20201202-WA0015.png"
+    }
+  },
+  {
+    "name": "Third Person Mod",
+    "description": "Allows you to play in third person.",
+    "id": "ThirdPersonMod",
+    "version": "0.2",
+    "downloadLink": "https://github.com/ComputerElite/play3rdper/releases/download/0.2/Play3rdPer.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "ComputerElite",
+      "icon": "https://media.discordapp.net/attachments/638890439222755328/789404970059169852/IMG-20201202-WA0015.png"
+    }
+  },
+  {
+    "name": "ModList",
+    "description": "Lets you view a list of loaded mods ingame.",
+    "id": "ModList",
+    "version": "0.1.2",
+    "downloadLink": "https://questmodding.com/mods/mod-list_v0.1.2.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "Discord Presence",
+    "description": "Allows you to see discord rich presence from Beat Saber on discord.",
+    "id": "DiscordPresence",
+    "version": "0.3.3",
+    "downloadLink": "https://github.com/Lauriethefish/Quest-Discord-Presence/blob/master/README.md",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "Faster Scroll",
+    "description": "Find your song faster with this customizable faster scrolling mod.",
+    "id": "FasterScroll",
+    "version": "1.1.0",
+    "downloadLink": "https://questmodding.com/mods/fasterscroll_v1.1.0.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Christoffyw",
+      "icon": "https://cdn.discordapp.com/attachments/702592796263055511/878052829405790308/image0.png"
+    }
+  },
+  {
+    "name": "FishUtils",
+    "description": "FishUtils is a general quality-of-life (QOL) mod that combines 3 of my mods (SlowResume, AutoDebris and PauseConfirm) into one package. I made it as I never use these mods separately, and they work best together.",
+    "id": "FishUtils",
+    "version": "0.1.0",
+    "downloadLink": "https://questmodding.com/mods/fish-utils_v0.1.0.qmod",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  }
+]

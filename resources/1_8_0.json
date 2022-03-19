@@ -1,0 +1,28 @@
+[
+  {
+    "name": "PinkCore",
+    "description": "PinkCore is a Core mod which aims to give you as much of a 'PC experience' as possible! This includes adding information to your game such as the Mappers names, Mod Requirements, Custom Colours, Custom Difficulty names, Burn Marks, and more!",
+    "id": "PinkCore",
+    "version": "1.1.0",
+    "downloadLink": "https://questboard.xyz/mods/PinkUtils.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Pink",
+      "icon": "https://www.questmodding.com/Pink.jpg"
+    }
+  },
+  {
+    "name": "Mapping Extensions",
+    "description": "This adds a host of new things you can do with your maps as a mapper, and allows you to play said maps as a player.",
+    "id": "MappingExtensions",
+    "version": "0.17.0",
+    "downloadLink": "https://cdn.discordapp.com/attachments/693670761453453402/699422255880470608/MappingExtensions.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Kyle 1413, MichaelZoller, StackDoubleFlow, rxzz0",
+      "icon": "https://www.questmodding.com/Kyle.png"
+    }
+  }
+]

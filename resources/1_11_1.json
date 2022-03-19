@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Trick Saber",
+    "description": "This mod allows you to perform various tricks like spinning / throwing your sabers, hence the name 'Trick Saber'",
+    "id": "TrickSaber",
+    "version": "0.2.1",
+    "downloadLink": "https://cdn.discordapp.com/attachments/744925380267343922/755122717254090902/TrickSaber_v0.2.1.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Fern, MichaelZoller",
+      "icon": "https://cdn.discordapp.com/avatars/199159026288689152/a_1dcc8620248890ca3dbccdc32c9e1bb0.png?size=256"
+    }
+  },
+  {
+    "name": "Trick Saber",
+    "description": "This mod allows you to perform various tricks like spinning / throwing your sabers, hence the name 'Trick Saber'",
+    "id": "TrickSaber",
+    "version": "0.2.1",
+    "downloadLink": "https://cdn.discordapp.com/attachments/744925380267343922/753381299556843580/TrickSaber_v0.2.1.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Fern, MichaelZoller",
+      "icon": "https://cdn.discordapp.com/avatars/199159026288689152/a_1dcc8620248890ca3dbccdc32c9e1bb0.png?size=256"
+    }
+  },
+  {
+    "name": "Trick Saber",
+    "description": "This mod allows you to perform various tricks like spinning / throwing your sabers, hence the name 'Trick Saber'",
+    "id": "TrickSaber",
+    "version": "0.2.0",
+    "downloadLink": "https://cdn.discordapp.com/attachments/744925380267343922/746535307998003243/TrickSaber.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Fern, MichaelZoller",
+      "icon": "https://cdn.discordapp.com/avatars/199159026288689152/a_1dcc8620248890ca3dbccdc32c9e1bb0.png?size=256"
+    }
+  },
+  {
+    "name": "Qosmetics",
+    "description": "Gives support for using custom Saber, Wall and Block models; change models in game! <br> <i>Play Your Way!</i>",
+    "id": "Qosmetics",
+    "version": "1.0.3",
+    "downloadLink": "https://github.com/RedBrumbler/Qosmetics/releases/download/v1.0.3/Qosmetics.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "RedBrumbler",
+      "icon": "https://www.questmodding.com/Red.png"
+    }
+  },
+  {
+    "name": "Qosmetics",
+    "description": "Gives support for using custom Saber, Wall and Block models; change models in game! <br> <i>Play Your Way!</i>",
+    "id": "Qosmetics",
+    "version": "1.0.0",
+    "downloadLink": "https://github.com/RedBrumbler/Qosmetics/releases/download/v1.0.0/Qosmetics.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "RedBrumbler",
+      "icon": "https://www.questmodding.com/Red.png"
+    }
+  },
+  {
+    "name": "Custom Fail Text",
+    "description": "Allows you to customize the text that appears when you fail a level.",
+    "id": "CustomFailText",
+    "version": "0.1.3",
+    "downloadLink": "https://cdn.discordapp.com/attachments/744925380267343922/753497349376049252/custom-fail-text_v0.1.3.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "Discord Presence",
+    "description": "Allows you to see discord rich presence from Beat Saber on discord.",
+    "id": "DiscordPresence",
+    "version": "0.1.1",
+    "downloadLink": "https://github.com//Quest-Discord-Presence",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "Motion Blur Disabler",
+    "description": "Disables the annoying white area of the trail.",
+    "id": "MotionBlurDisabler",
+    "version": "1.0.0",
+    "downloadLink": "https://cdn.discordapp.com/attachments/744925380267343922/746478624684638240/libmbdisabler.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Future",
+      "icon": "https://www.questmodding.com/Future.png"
+    }
+  },
+  {
+    "name": "Custom Trail Length",
+    "description": "Allows you to customize your trail length via a config file",
+    "id": "CustomTrailLength",
+    "version": "1.0.0",
+    "downloadLink": "https://cdn.discordapp.com/attachments/744925380267343922/746478218541793430/bmbfmod.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Future",
+      "icon": "https://www.questmodding.com/Future.png"
+    }
+  },
+  {
+    "name": "ChatUI",
+    "description": "Shows the TwitchChat in game! <br> <a   style=\"color:#CCC; text-decoration: none;\"href='https://futuremappermydud.github.io/chatsite/'> Click Here for the Setup Tutorial!</a>",
+    "id": "ChatUI",
+    "version": "0.1.4",
+    "downloadLink": "https://github.com/darknight1050/ChatUI/releases/download/0.1.4/chatui_v0.1.4.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "darknight1050",
+      "icon": "https://cdn.discordapp.com/avatars/142722503159185408/0b454add32c9fb401516af13a6d4bab2.webp?size=1024"
+    }
+  },
+  {
+    "name": "ChatUI",
+    "description": "Shows the TwitchChat in game! <br> <a   style=\"color:#CCC; text-decoration: none;\"href='https://futuremappermydud.github.io/chatsite/'> Click Here for the Setup Tutorial!</a>",
+    "id": "ChatUI",
+    "version": "0.1.3",
+    "downloadLink": "https://github.com/darknight1050/ChatUI/releases/download/0.1.3/chatui_v0.1.3.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "darknight1050",
+      "icon": "https://cdn.discordapp.com/avatars/142722503159185408/0b454add32c9fb401516af13a6d4bab2.webp?size=1024"
+    }
+  },
+  {
+    "name": "SongHelper",
+    "description": "Allows you to scroll in the songlist with your thumbsticks!",
+    "id": "SongHelper",
+    "version": "0.1.2",
+    "downloadLink": "https://github.com/darknight1050/SongHelper/releases/download/0.1.2/songhelper_v0.1.2.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "darknight1050",
+      "icon": "https://cdn.discordapp.com/avatars/142722503159185408/0b454add32c9fb401516af13a6d4bab2.webp?size=1024"
+    }
+  }
+]

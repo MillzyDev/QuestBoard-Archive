@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Custom Fail Text",
+    "description": "Allows you to customize the text that appears when you fail a level.",
+    "id": "CustomFailText",
+    "version": "0.1.5",
+    "downloadLink": "https://cdn.discordapp.com/attachments/765630505000894484/771271728549724170/custom-fail-text_v0.1.5.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "Custom Fail Text",
+    "description": "Allows you to customize the text that appears when you fail a level.",
+    "id": "CustomFailText",
+    "version": "0.1.4",
+    "downloadLink": "https://cdn.discordapp.com/attachments/765630505000894484/767612227662249984/custom-fail-text_v0.1.4.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "Discord Presence",
+    "description": "Allows you to see discord rich presence from Beat Saber on discord.",
+    "id": "DiscordPresence",
+    "version": "0.1.2",
+    "downloadLink": "https://github.com/Lauriethefish/Quest-Discord-Presence",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  }
+]

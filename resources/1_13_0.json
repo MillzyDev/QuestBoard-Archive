@@ -1,0 +1,405 @@
+[
+  {
+    "name": "PinkCore",
+    "description": "PinkCore is a Core mod which aims to give you as much of a 'PC experience' as possible! This includes adding information to your game such as the Mappers names, Mod Requirements, Custom Colours, Custom Difficulty names, Burn Marks, and more!",
+    "id": "PinkCore",
+    "version": "1.3.1",
+    "downloadLink": "https://github.com/BSMGPink/PinkUtils/releases/download/1.3.1/PinkCorev1.3.1.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Pink",
+      "icon": "https://www.questmodding.com/Pink.jpg"
+    }
+  },
+  {
+    "name": "PinkCore",
+    "description": "PinkCore is a Core mod which aims to give you as much of a 'PC experience' as possible! This includes adding information to your game such as the Mappers names, Mod Requirements, Custom Colours, Custom Difficulty names, Burn Marks, and more!",
+    "id": "PinkCore",
+    "version": "1.3.0",
+    "downloadLink": "https://github.com/BSMGPink/PinkUtils/releases/download/1.3.0/PinkCorev1.3.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Pink",
+      "icon": "https://www.questmodding.com/Pink.jpg"
+    }
+  },
+  {
+    "name": "Mapping Extensions",
+    "description": "This adds a host of new things you can do with your maps as a mapper, and allows you to play said maps as a player.",
+    "id": "MappingExtensions",
+    "version": "0.19.1",
+    "downloadLink": "https://github.com/StackDoubleFlow/QuestMods/releases/download/v0.19.1/MappingExtensions.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Kyle 1413, MichaelZoller, StackDoubleFlow, rxzz0",
+      "icon": "https://www.questmodding.com/Kyle.png"
+    }
+  },
+  {
+    "name": "Mapping Extensions",
+    "description": "This adds a host of new things you can do with your maps as a mapper, and allows you to play said maps as a player.",
+    "id": "MappingExtensions",
+    "version": "0.18.0",
+    "downloadLink": "https://github.com/StackDoubleFlow/QuestMods/releases/download/0.18.0/MappingExtensions_v0.18.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Kyle 1413, MichaelZoller, StackDoubleFlow, rxzz0",
+      "icon": "https://www.questmodding.com/Kyle.png"
+    }
+  },
+  {
+    "name": "Beat Together",
+    "description": "A multiplayer private server for the modding community. Supports crossplay between PC and Quest.",
+    "id": "BeatTogether",
+    "version": "1.0.1",
+    "downloadLink": "https://github.com/pythonology/BeatTogether.Quest/releases/download/v1.0.1/BeatTogether_v1.0.1.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Kevman95, Python",
+      "icon": "https://www.questmodding.com/Python.png"
+    }
+  },
+  {
+    "name": "Beat Together",
+    "description": "A multiplayer private server for the modding community. Supports crossplay between PC and Quest.",
+    "id": "BeatTogether",
+    "version": "0.3.1",
+    "downloadLink": "https://discord.com/invite/gezGrFG4tz",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Kevman95, Python",
+      "icon": "https://www.questmodding.com/Python.png"
+    }
+  },
+  {
+    "name": "AutoDebris",
+    "description": "Automatically enables or disables debris based on the Notes Per Second, or the playlist that a song is in.",
+    "id": "AutoDebris",
+    "version": "0.1.3",
+    "downloadLink": "http://questmodding.com/mods/auto-debris_v0.1.3.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "SlowResume",
+    "description": "Allows you to change how long the countdown takes to resume when paused. Disables score submission if the amount of time is increased, since this makes pausing an easier method to get back your stamina.",
+    "id": "SlowResume",
+    "version": "0.1.0",
+    "downloadLink": "https://github.com/Lauriethefish/SlowResume/releases/download/0.1.0/slow-resume_v0.1.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "PauseConfirm",
+    "description": "Makes you confirm before going back to the menu, restarting or pressing continue when in the pause menu.",
+    "id": "PauseConfirm",
+    "version": "0.1.0",
+    "downloadLink": "https://github.com/Lauriethefish/PauseConfirm/releases/download/0.1.0/pause-confirm_v0.1.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "DebrisTweaks",
+    "description": "Allows for full customization of various note debris parameters. Useful for those who wish to reduce vision blocks without disabling debris completely.",
+    "id": "DebrisTweaks",
+    "version": "0.3.0",
+    "downloadLink": "https://github.com/Raemien/DebrisTweaksQuest/releases/latest/download/DebrisTweaks.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Raemien",
+      "icon": "https://freeman.feen.us/tkhxdkb6pn.jpg"
+    }
+  },
+  {
+    "name": "DebrisTweaks",
+    "description": "Allows for full customization of various note debris parameters. Useful for those who wish to reduce vision blocks without disabling debris completely.",
+    "id": "DebrisTweaks",
+    "version": "0.2.0",
+    "downloadLink": "https://github.com/Raemien/DebrisTweaksQuest/releases/download/0.2.0/DebrisTweaks_v0.2.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Raemien",
+      "icon": "https://freeman.feen.us/tkhxdkb6pn.jpg"
+    }
+  },
+  {
+    "name": "AntiVertigo",
+    "description": "Spawns a cube/cylinder under the player to help those with vertigo or a fear of heights",
+    "id": "AntiVertigo",
+    "version": "1.0.0",
+    "downloadLink": "https://github.com/RedBrumbler/AntiVertigo/releases/latest/download/AntiVertigo.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "RedBrumbler",
+      "icon": "https://www.questmodding.com/Red.png"
+    }
+  },
+  {
+    "name": "Inverted Arrows",
+    "description": "This mod that reverses arrow directions for beat saber blocks. Disables score submission.",
+    "id": "InvertedArrows",
+    "version": "1.0.0",
+    "downloadLink": "https://questmodding.com/mods/InvertedArrows_v1.0.4.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "RedBrumbler",
+      "icon": "https://www.questmodding.com/Red.png"
+    }
+  },
+  {
+    "name": "Replay",
+    "description": "This mod lets you record better videos and lets you view a replay of any of your recorded plays.<br>Donation Link (donators get access to a private server): https://www.patreon.com/henwill8",
+    "id": "Replay",
+    "version": "0.3.0",
+    "downloadLink": "https://github.com/henwill8/ReplayDownload/releases/download/v0.3.0/ReplayLite.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Henwill8",
+      "icon": "https://media.discordapp.net/attachments/702592796263055511/816884261080268850/unnamed.png"
+    }
+  },
+  {
+    "name": "Better Menu",
+    "description": "A mod that rearranges the main menu into a more organised grid layout.",
+    "id": "BetterMenu",
+    "version": "0.2.1",
+    "downloadLink": "https://cdn.discordapp.com/attachments/776551464117075978/794607261074980894/BetterMenu.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "StackDoubleFlow",
+      "icon": "https://images-ext-2.discordapp.net/external/sM42r2wn8Ho_4FIePAIN_wM3IVwtxUdZTQmjT_ezPmk/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/145317792520863744/dda8daf2cafdbe2cdea27ca27dbf06fd.webp"
+    }
+  },
+  {
+    "name": "Better Menu",
+    "description": "A mod that rearranges the main menu into a more organised grid layout.",
+    "id": "BetterMenu",
+    "version": "0.2.0",
+    "downloadLink": "https://cdn.discordapp.com/attachments/776551464117075978/776648476418244638/BetterMenu.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "StackDoubleFlow",
+      "icon": "https://images-ext-2.discordapp.net/external/sM42r2wn8Ho_4FIePAIN_wM3IVwtxUdZTQmjT_ezPmk/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/145317792520863744/dda8daf2cafdbe2cdea27ca27dbf06fd.webp"
+    }
+  },
+  {
+    "name": "Particles",
+    "description": "Adjust in-game particle effects",
+    "id": "Particles",
+    "version": "1.0.1",
+    "downloadLink": "https://github.com/SuperMarcus/QuestParticleTuner/releases/download/1.0.1/ParticleTuner_1.0.1.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Marcus",
+      "icon": "https://github.com/SuperMarcus.png"
+    }
+  },
+  {
+    "name": "No Boom",
+    "description": "A Port of Spookys NoBoom mod. Disables the bomb particle effects, mainly used for recording.",
+    "id": "NoBoom",
+    "version": "1.0.0",
+    "downloadLink": "https://github.com/BSMGPink/QuestNoBoom/releases/download/1.0.0/NoBoom.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Pink, Spooky",
+      "icon": "https://www.questmodding.com/Pink.jpg"
+    }
+  },
+  {
+    "name": "Burn Marks Qeeper",
+    "description": "Stops your burn marks from ever disappearing when you collide your sabers with the ground!",
+    "id": "BurnMarksQeeper",
+    "version": "1.0.0",
+    "downloadLink": "https://github.com/BSMGPink/BurnMarksKeeper/releases/download/1.0.0/BurnMarksKeeper.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Core, Pink",
+      "icon": "https://cdn.discordapp.com/attachments/882039815669973022/889677883138801664/Screenshot_20210809-110120_Chrome.png"
+    }
+  },
+  {
+    "name": "No Italics",
+    "description": "Unslants everything in the menu! <b>WARNING, THIS LOOKS VERY WEIRD.</b>",
+    "id": "NoItalics",
+    "version": "1.0.0",
+    "downloadLink": "https://github.com/BSMGPink/QuestNoItalics/releases/download/1.0.0/NoItalicsQuestDownload.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Pink",
+      "icon": "https://www.questmodding.com/Pink.jpg"
+    }
+  },
+  {
+    "name": "Qosmetics",
+    "description": "Gives support for using custom Saber, Wall and Block models; change models in game! <br> <i>Play Your Way!</i>",
+    "id": "Qosmetics",
+    "version": "1.1.7",
+    "downloadLink": "https://github.com/RedBrumbler/Qosmetics/releases/latest/download/Qosmetics.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "RedBrumbler",
+      "icon": "https://www.questmodding.com/Red.png"
+    }
+  },
+  {
+    "name": "Qosmetics",
+    "description": "Gives support for using custom Saber, Wall and Block models; change models in game! <br> <i>Play Your Way!</i>",
+    "id": "Qosmetics",
+    "version": "1.1.6",
+    "downloadLink": "https://github.com/RedBrumbler/Qosmetics/releases/latest/download/Qosmetics.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "RedBrumbler",
+      "icon": "https://www.questmodding.com/Red.png"
+    }
+  },
+  {
+    "name": "Custom Fail Text",
+    "description": "Allows you to customize the text that appears when you fail a level.",
+    "id": "CustomFailText",
+    "version": "0.1.7",
+    "downloadLink": "https://github.com/Lauriethefish/CustomFailText/releases/download/0.1.7/custom-fail-text_v0.1.7.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "RedBar",
+    "description": "Allows you to change the color of your health bar according to your health.",
+    "id": "RedBar",
+    "version": "1.2.0",
+    "downloadLink": "https://github.com/ComputerElite/RedBar/releases/download/1.2.0/RedBar_v1.2.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "ComputerElite, Miniwa",
+      "icon": "https://media.discordapp.net/attachments/638890439222755328/789404970059169852/IMG-20201202-WA0015.png"
+    }
+  },
+  {
+    "name": "No Miss Text",
+    "description": "A Port of CyanSnows NoMissText mod. Removes the miss and bad cut text along with the combo break animation!",
+    "id": "NoMissText",
+    "version": "1.0.0",
+    "downloadLink": "https://github.com/BSMGPink/QuestNoMissText/releases/download/1.0.0/NoMissText.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "gabriella ✨, Pink, CyanSnow",
+      "icon": "https://gabriella.moe/files/pfp.png"
+    }
+  },
+  {
+    "name": "Motion Blur Disabler",
+    "description": "This mod disables the white part of the trail",
+    "id": "MotionBlurDisabler",
+    "version": "1.2.0",
+    "downloadLink": "https://cdn.discordapp.com/attachments/776551464117075978/776806942374625290/MotionBlurDisabler_v1.2.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "ComputerElite",
+      "icon": "https://media.discordapp.net/attachments/638890439222755328/789404970059169852/IMG-20201202-WA0015.png"
+    }
+  },
+  {
+    "name": "QuestSounds",
+    "description": "QuestSounds allows the user to change sounds, just drop them into one of the folders in /ModData/com.beatgames.beatsaber/Mods/QuestSounds/ and select them in-game!",
+    "id": "QuestSounds",
+    "version": "0.1.3",
+    "downloadLink": "https://github.com/Rugtveit/QuestSounds/releases/download/0.1.3/QuestSounds.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "EnderdracheLP, Lillie",
+      "icon": "https://www.questmodding.com/EnderdracheLP.png"
+    }
+  },
+  {
+    "name": "BTS Yeeter",
+    "description": "This mod simply removes the annoying little BTS characters that fly around during their maps.",
+    "id": "BTSYeeter",
+    "version": "0.1.0",
+    "downloadLink": "https://github.com/IsGabriellaCurious/BTSYeeter/releases/download/v0.1.0/bts-yeeter_v0.1.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Gabriella",
+      "icon": "https://www.questmodding.com/gabriella.png"
+    }
+  },
+  {
+    "name": "Recorder",
+    "description": "A temporary pre-replay update mod that makes replay files.",
+    "id": "Recorder",
+    "version": "0.1.0",
+    "downloadLink": "https://github.com/henwill8/ReplayDownload/releases/download/0.1.0/recorder_v0.1.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Henwill8",
+      "icon": "https://media.discordapp.net/attachments/702592796263055511/816884261080268850/unnamed.png"
+    }
+  },
+  {
+    "name": "ModList",
+    "description": "Lets you view a list of loaded mods ingame.",
+    "id": "ModList",
+    "version": "0.1.0",
+    "downloadLink": "https://github.com/Lauriethefish/ModList/releases/download/0.1.0/mod-list_v0.1.0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "Discord Presence",
+    "description": "Allows you to see discord rich presence from Beat Saber on discord.",
+    "id": "DiscordPresence",
+    "version": "0.1.3",
+    "downloadLink": "https://github.com/Lauriethefish/Quest-Discord-Presence",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  }
+]

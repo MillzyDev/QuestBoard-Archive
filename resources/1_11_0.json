@@ -1,0 +1,106 @@
+[
+  {
+    "name": "PinkCore",
+    "description": "PinkCore is a Core mod which aims to give you as much of a 'PC experience' as possible! This includes adding information to your game such as the Mappers names, Mod Requirements, Custom Colours, Custom Difficulty names, Burn Marks, and more!",
+    "id": "PinkCore",
+    "version": "1.2.2",
+    "downloadLink": "https://questboard.xyz/mods/PinkUtils1_2_2.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Pink",
+      "icon": "https://www.questmodding.com/Pink.jpg"
+    }
+  },
+  {
+    "name": "PinkCore",
+    "description": "PinkCore is a Core mod which aims to give you as much of a 'PC experience' as possible! This includes adding information to your game such as the Mappers names, Mod Requirements, Custom Colours, Custom Difficulty names, Burn Marks, and more!",
+    "id": "PinkCore",
+    "version": "1.2.1",
+    "downloadLink": "https://questboard.xyz/mods/PinkUtils1_2_1.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Pink",
+      "icon": "https://www.questmodding.com/Pink.jpg"
+    }
+  },
+  {
+    "name": "PinkCore",
+    "description": "PinkCore is a Core mod which aims to give you as much of a 'PC experience' as possible! This includes adding information to your game such as the Mappers names, Mod Requirements, Custom Colours, Custom Difficulty names, Burn Marks, and more!",
+    "id": "PinkCore",
+    "version": "1.2.0",
+    "downloadLink": "https://questboard.xyz/mods/PinkUtils1_2_0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Pink",
+      "icon": "https://www.questmodding.com/Pink.jpg"
+    }
+  },
+  {
+    "name": "Mapping Extensions",
+    "description": "This adds a host of new things you can do with your maps as a mapper, and allows you to play said maps as a player.",
+    "id": "MappingExtensions",
+    "version": "0.17.1",
+    "downloadLink": "https://cdn.discordapp.com/attachments/744925380267343922/746472960591921172/MappingExtensions_v0.17.1.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Kyle 1413, MichaelZoller, StackDoubleFlow, rxzz0",
+      "icon": "https://www.questmodding.com/Kyle.png"
+    }
+  },
+  {
+    "name": "Mapping Extensions",
+    "description": "This adds a host of new things you can do with your maps as a mapper, and allows you to play said maps as a player.",
+    "id": "MappingExtensions",
+    "version": "0.17.0",
+    "downloadLink": "https://cdn.discordapp.com/attachments/744925380267343922/745490741093990452/MappingExtensions.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Kyle 1413, MichaelZoller, StackDoubleFlow, rxzz0",
+      "icon": "https://www.questmodding.com/Kyle.png"
+    }
+  },
+  {
+    "name": "Custom Fail Text",
+    "description": "Allows you to customize the text that appears when you fail a level.",
+    "id": "CustomFailText",
+    "version": "0.1.2",
+    "downloadLink": "https://cdn.discordapp.com/attachments/744925380267343922/745544031077138522/custom-fail-text_v0.1.2.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "Discord Presence",
+    "description": "Allows you to see discord rich presence from Beat Saber on discord.",
+    "id": "DiscordPresence",
+    "version": "0.1.0",
+    "downloadLink": "https://github.com//Quest-Discord-Presence",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "Lauriethefish",
+      "icon": "https://i.imgur.com/9jvEbjU.png"
+    }
+  },
+  {
+    "name": "Quest Trail Overlap",
+    "description": "This mod makes the trails not cut into eachother and instead overlap",
+    "id": "QuestTrailOverlap",
+    "version": "1.0.0",
+    "downloadLink": "https://questboard.xyz/mods/TrailOverlap1_0_0.zip",
+    "source": null,
+    "cover": null,
+    "author": {
+      "name": "RedBrumbler",
+      "icon": "https://www.questmodding.com/Red.png"
+    }
+  }
+]
